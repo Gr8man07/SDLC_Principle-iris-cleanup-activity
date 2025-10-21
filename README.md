@@ -93,7 +93,9 @@ Required packages: pip install pandas jupyter matplotlib
 - Run the refactored version: python Refactored_SDLC_Principles.py
 
 ## (Optional) Launch Jupyter Notebook:
+
 Open Refactored_SDLC_Principles.ipynb and run the cells interactively.
+
 ---
 ## Acknowledgments
 Iris dataset sourced from the UCI Machine Learning Repository
