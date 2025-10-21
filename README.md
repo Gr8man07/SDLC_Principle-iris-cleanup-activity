@@ -61,7 +61,7 @@ This project demonstrates the importance of writing clean, modular, and maintain
 
 ##  Output
 
-```text
+```
 Average sepal length: 5.843333333333334
 Max petal width: 2.5
 
