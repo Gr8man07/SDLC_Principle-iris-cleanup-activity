@@ -22,10 +22,10 @@ This project demonstrates the importance of writing clean, modular, and maintain
 ---
 
 ## Repository Structure
-├── SDLC_Principles.py # Messy, non-modular script
-├── Refactored_SDLC_Principles.py # Clean, modular version with functions and error handling
-├── Refactored_SDLC_Principles.ipynb # Optional Jupyter Notebook version
-└── README.md # Project documentation
+- SDLC_Principles.py # Messy, non-modular script
+- Refactored_SDLC_Principles.py # Clean, modular version with functions and error handling
+- Refactored_SDLC_Principles.ipynb # Optional Jupyter Notebook version
+- README.md # Project documentation
 
 
 ---
@@ -36,7 +36,6 @@ This project demonstrates the importance of writing clean, modular, and maintain
 - Calculate the average of the `sepal_length` column  
 - Find the maximum value in the `petal_width` column  
 - Filter and display the first five rows where `species == 'setosa'`
-
 ---
 
 ## Code Comparison
@@ -72,10 +71,12 @@ Jupyter Notebook (Refactored_SDLC_Principles.ipynb): Interactive version of the 
 Histograms using matplotlib
 
 •	Added Visualizations: Used matplotlib  to plot histograms and seaborn to plot scatter plots of the Iris dataset.
-<img width="373" height="290" alt="image" src="https://github.com/user-attachments/assets/1bfe5b70-3cc6-4cad-b785-fe40fe1d60f0" />
+
+<img width="365" height="292" alt="image" src="https://github.com/user-attachments/assets/8cba1a15-67c0-4050-99f1-062c049f2ce5" />
 
 Scatter plots using seaborn
-<img width="410" height="314" alt="image" src="https://github.com/user-attachments/assets/116364aa-6069-4892-86cf-ccc6dc541470" />
+<img width="400" height="308" alt="image" src="https://github.com/user-attachments/assets/e0e490ac-3b0d-4d20-ab23-f587630413d6" />
+
 
 
 seaborn
@@ -85,15 +86,15 @@ Python 3.7+
 
 Required packages: pip install pandas jupyter matplotlib
 ---
-## **How to Run (Bash)**
-Clone the repository: git clone https://github.com/Gr8man07/SDLC_Principle-iris-cleanup-activity.git
-cd SDLC_Principle-iris-cleanup-activity
-Run the messy script: python SDLC_Principles.py
-Run the refactored version: python Refactored_SDLC_Principles.py
+## How to Run (Bash)
+- Clone the repository: git clone https://github.com/Gr8man07/SDLC_Principle-iris-cleanup-activity.git
+- cd SDLC_Principle-iris-cleanup-activity
+- Run the messy script: python SDLC_Principles.py
+- Run the refactored version: python Refactored_SDLC_Principles.py
 
-##**(Optional) Launch Jupyter Notebook:**
+## (Optional) Launch Jupyter Notebook:
 Open Refactored_SDLC_Principles.ipynb and run the cells interactively.
 ---
-##** Acknowledgments**
+## Acknowledgments
 Iris dataset sourced from the UCI Machine Learning Repository
 Thanks to the open-source community for tools like Pandas, Jupyter, Matplotlib, and Seaborn
