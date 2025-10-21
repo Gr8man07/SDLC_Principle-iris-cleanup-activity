@@ -59,9 +59,6 @@ This project demonstrates the importance of writing clean, modular, and maintain
 
 ---
 
-##  Output
-
-```
 Average sepal length: 5.843333333333334
 Max petal width: 2.5
 
