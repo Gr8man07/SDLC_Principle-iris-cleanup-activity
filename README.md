@@ -94,7 +94,7 @@ Required packages: pip install pandas jupyter matplotlib
 
 ## (Optional) Launch Jupyter Notebook:
 
-Open Refactored_SDLC_Principles.ipynb and run the cells interactively.
+Open "Refactored_SDLC_Principles.ipynb" and run the cells interactively.
 
 ---
 ## Acknowledgments
