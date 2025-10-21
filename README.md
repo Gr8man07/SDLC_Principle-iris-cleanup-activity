@@ -65,7 +65,7 @@ This project demonstrates the importance of writing clean, modular, and maintain
 Average sepal length: 5.843333333333334
 Max petal width: 2.5
 
-## **First 5 rows where species is 'setosa'**:
+## First 5 rows where species is 'setosa':
    sepal_length  sepal_width  petal_length  petal_width species
 0          5.1          3.5           1.4          0.2  setosa
 1          4.9          3.0           1.4          0.2  setosa
